@@ -30,3 +30,5 @@
 *.exe
 *.out
 *.app
+/.vs/A good lang
+/x64/Debug

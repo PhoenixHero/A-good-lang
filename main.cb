@@ -1,0 +1,8 @@
+var float 3.1
+var str "hello\n"
+var true
+
+func main()
+{
+	print(str)
+}
